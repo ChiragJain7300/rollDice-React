@@ -1,0 +1,19 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.diceImg {
+  display: flex;
+  justify-content: space-between;
+  column-gap: 30px;
+  margin-bottom: 30px;
+}
+.diceImg img {
+  width: 300px;
+}
+.btn {
+  padding: 20px 30px;
+  font-size: 30px;
+  width: 300px;
+}
